@@ -1,0 +1,6 @@
+com\management\books\model\Book$BookType.class
+com\management\books\util\HelperUtil.class
+com\management\books\BooksManagementApplication.class
+com\management\books\controller\BookController.class
+com\management\books\model\Book.class
+com\management\books\repository\BookRepository.class
